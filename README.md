@@ -1,3 +1,10 @@
+# Submission images
+
+![](images/screenshot1.png)
+
+![](images/screenshot2.png)
+
+
 We will be using Vue.js and Flask for this workshop. Vue is a javascript framework that we will be using for frontend and Flask is a python-written framework that we will be using for backend.
 
 ## Goals for the Workshop:
